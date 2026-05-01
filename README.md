@@ -1,6 +1,3 @@
-# hfsa-net-low-light-enhancement
-Hybrid Frequency-Spatial Attention Network for Low-Light Image Enhancement
-
 # HFSA-Net: Hybrid Frequency-Spatial Attention Network for Low-Light Image Enhancement
 
 **Melahat Bahçeli** — Department of Computer Engineering, Abdullah Gul University, 2026

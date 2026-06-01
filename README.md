@@ -139,7 +139,7 @@ hfsa_net_colab.ipynb
 
 ```
 hfsa-net-low-light-enhancement/
-├── hfsa_net_colab.ipynb     ← Main Colab notebook
+├── HFSA_NET.ipynb     ← Main Colab notebook
 └── README.md
 ```
 
